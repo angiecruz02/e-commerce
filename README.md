@@ -12,7 +12,7 @@ E-commerce backend website using sequelize to interact with MySQL database.
 - [Usage](#usage)
 - [Test](#test)
 - [License](#license)
-- [Link](link-to-the-video)
+- [Link](#link-to-the-video)
 - [Contributing](#contributing)
 - [Screenshot](#screenshot)
 - [Questions](#questions)
