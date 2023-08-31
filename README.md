@@ -14,7 +14,6 @@ E-commerce backend website using sequelize to interact with MySQL database.
 - [License](#license)
 - [Link](#link-to-the-video)
 - [Contributing](#contributing)
-- [Screenshot](#screenshot)
 - [Questions](#questions)
 
 ## Installation
@@ -58,14 +57,11 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Link to the video
 
+https://drive.google.com/file/d/1GSlVlcuWTrbL16em7nVpaf92GBF4gVZi/view
 
 ## Contributing
 
 This project is not open to contributions at this time.
-
-
-## Screenshot
-
 
 
 ## Questions
